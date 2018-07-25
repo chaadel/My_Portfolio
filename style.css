@@ -526,9 +526,15 @@ body.blog .more-posts {
 }
 
 .wp-caption .image-caption-text {
-  background-color: #f5e083;
+  background-color: #3897f0;
   padding: 10px;
   margin-left: 15px;
+  justify-content: center;
+}
+
+.nextbtn {
+  color: #ffffff;
+  font-weight: 500;
 }
 
 /* END SINGLE POST */

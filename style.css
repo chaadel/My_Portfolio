@@ -1210,4 +1210,7 @@ li.left-footer-content.mobile {
   .team-holder .member-social-holder {
     padding: 0 10px;
   }
+  .wp-caption img {
+    width: 1400px;
+  }
 }

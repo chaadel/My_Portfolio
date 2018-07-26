@@ -293,6 +293,10 @@ body.blog .more-posts {
   position: relative;
 }
 
+.image-slider-wrapper li {
+  /*height: 360px;*/
+}
+
 .carousel_pagination {
   position: absolute;
   bottom: 0;
